@@ -17,5 +17,5 @@ Fortunately, through the magic of Git, a local copy of code.xml.zip was found.
 
 The best solution is store a local copy of the VaCode.org's code.xml.zip.
 
-https://github.com/GitMachines/statedecoded-gm-centos6-warehouse/raw/master/vacode.org/2013/05/code.xml.zip
+https://github.com/GitMachines/statedecoded-gm-centos6-warehouse/raw/master/vacode.org/2013/05/code-sample.xml.zip
 
